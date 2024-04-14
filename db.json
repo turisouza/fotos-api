@@ -2,15 +2,18 @@
   "fotos": [
     {
       "id": 1,
-      "usuario": "Turí Souza"
+      "usuario": "Turí Souza",
+      "url": "https://www.google.com/url?sa=i&url=http%3A%2F%2Fblog.eumaisviagens.com.br%2Fdestinos%2Fconheca-a-cidade-de-saquarema%2F&psig=AOvVaw25P7wn8DeKoeNjSo8VZ6lU&ust=1713214514758000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiYvfDFy8KFAxXxq5UCHUZECA8QjRx6BAgAEBY"
     },
     {
       "id": 2,
-      "usuario": "Rafael"
+      "usuario": "Rafael",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.saquarema.rj.gov.br%2Fturismo%2F&psig=AOvVaw1qdJ_pWJuRLkBVtv0KGDQj&ust=1713214515534000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwia75_Gy8KFAxUqjZUCHfb2BGMQjRx6BAgAEBY"
     },
     {
       "id": 3,
-      "usuario": "Fernanda"
+      "usuario": "Fernanda",
+      "url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flitoralguia.com.br%2Flitoral%2Fsaquarema-a-badalada-praia-que-se-tornou-a-capital-nacional-do-surf%2F&psig=AOvVaw2eR1Mj_80i0GDnpb_QTcoh&ust=1713214516316000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjb0M_Gy8KFAxViRLgEHcAoAwUQjRx6BAgAEBY"
     }
   ] 
   
