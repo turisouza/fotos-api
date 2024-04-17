@@ -6,7 +6,7 @@
       "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/imagem1.png",
       "fotoUsuario": "https://github.com/turisouza.png",
       "comentario": "Conheça as melhores ondas do Brasil",
-      "likes": 2
+      "likes": 235
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/01.png",
       "fotoUsuario": "https://img.odcdn.com.br/wp-content/uploads/2021/10/SteveJobsMacbookAir.jpg",
       "comentario": "Uma das paisagens mais lindas do mundo",
-      "likes": 250
+      "likes": 0
     },
     {
       "id": 3,
@@ -29,7 +29,7 @@
       "usuario": "Turí Souza",
       "fotoPost": "https://litoralguia.com.br/wordpress/wp-content/files/litoralguia.com.br/2021/12/imagem1.png",
       "fotoUsuario": "https://github.com/turisouza.png",
-      "comentario": "Conheça as melhores ondas do Brasil",
+      "comentario": "Praias paradisíacas",
       "likes": 78
     },
     {
